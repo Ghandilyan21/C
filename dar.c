@@ -1,0 +1,11 @@
+Mecatar_sarqel.c
+a.out
+dar.c
+dzaynavor_anun.c
+dzaynavorov_anun.c
+hashvich.c
+reverse_num.c
+tvanshanneri_arandznacum.c
+tvanshanneri_artadryal.cpp
+tvanshanneri_gumar
+tvanshanneri_gumar.c
